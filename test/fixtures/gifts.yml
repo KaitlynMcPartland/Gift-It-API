@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  charity: MyString
+  amount: 1
+  team: MyString
+  user_id: 1
+
+two:
+  charity: MyString
+  amount: 1
+  team: MyString
+  user_id: 1
