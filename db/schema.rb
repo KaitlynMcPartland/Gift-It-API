@@ -26,10 +26,16 @@ ActiveRecord::Schema.define(version: 20161022181806) do
   end
 
   create_table "users", force: :cascade do |t|
-    t.string   "name"
-    t.string   "email"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
+    t.string   "first_name"
+    t.string   "last_name"
+    t.string   "house_number"
+    t.string   "street"
+    t.string   "zip"
+    t.string   "city"
+    t.string   "state"
+    t.string   "country_code"
+    t.datetime "created_at",   null: false
+    t.datetime "updated_at",   null: false
   end
 
 end
