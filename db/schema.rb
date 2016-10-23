@@ -20,6 +20,7 @@ ActiveRecord::Schema.define(version: 20161022181806) do
     t.integer  "amount"
     t.string   "team"
     t.integer  "user_id"
+    t.string   "icon"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end

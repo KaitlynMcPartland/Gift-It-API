@@ -5,6 +5,7 @@ class CreateGifts < ActiveRecord::Migration[5.0]
       t.integer :amount
       t.string :team
       t.integer :user_id
+      t.string :icon
 
       t.timestamps
     end
