@@ -12,18 +12,21 @@ Gift it was built with a React Native frontend, Ruby on Rails backend with a Pos
 #### Gift-Its's Node.js backend repo: [Gift-It Node.js](https://github.com/eyingling02/Gift-It-Node-Backend)
 
 ## Team
-[@Spencerdezartsmith](https://github.com/spencerdezartsmith)|[@KaitlynMcPartland](https://github.com/KaitlynMcPartland)|[@Grust101](https://github.com/grust101)|[@Eyingling02](https://github.com/eyingling02)
+[@Spencerdezartsmith](https://github.com/spencerdezartsmith) | [@KaitlynMcPartland](https://github.com/KaitlynMcPartland) | [@Grust101](https://github.com/grust101) | [@Eyingling02](https://github.com/eyingling02)
 
 ## Functionality
 ![images](/public/loading_page.png)
 
 Enter how much you'd like to donate and which team you support.
+
 ![images](/public/donation_page.png) ![images](/public/confirmation_page.png)
 
 View how much has been donated at the event so far.
+
 ![images](/public/graph_page.png) ![images](/public/toggled_graph.png)
 
 See your donation history for this.
+
 ![images](/public/history_page.png)
 
 ## Setup
